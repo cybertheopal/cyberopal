@@ -1,4 +1,4 @@
-<h1>Hi, I'm Opal! <br/><a<a href="https://www.linkedin.com/in/opal-ratanayatigune/">Cybersecurity Professional</a>
+<h1>Hi, I'm Opal! <br/><a href="https://www.linkedin.com/in/opal-ratanayatigune/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

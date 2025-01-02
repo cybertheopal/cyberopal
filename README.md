@@ -9,7 +9,7 @@
 
 <h2>📜 Certifications</h2>
 
-- [Comptia Security +](insert link)
+- [Comptia Security +](https://imgur.com/prpeD3X)
 
 <h2>📺 Popular YouTube Videos</h2>
 

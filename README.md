@@ -21,14 +21,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="OpalRatanayatigune | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="OpalRatanayatigune | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="OpalRatanayatigune | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="OpalRatanayatigune | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://www.linkedin.com/in/opal-ratanayatigune/
-[youtube]: https://www.linkedin.com/in/opal-ratanayatigune/
-[instagram]: https://www.linkedin.com/in/opal-ratanayatigune/
+[<img align="left" alt="OpalRatanayatigune | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
 [linkedin]: https://www.linkedin.com/in/opal-ratanayatigune/
 
 <!--

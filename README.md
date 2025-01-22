@@ -4,7 +4,8 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Vulnerability Management Assessment (Nessus)<b>
+- <b>Vulnerability Management Assessment
+  - [(Nessus)](https://github.com/cybertheopal/VulnerabilityManagement)<b>
 - <b>[Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)<b>
 
 <h2>📜 Certifications</h2>

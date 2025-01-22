@@ -2,23 +2,22 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 - <b>Vulnerability Management Assessment
   - [(Nessus)](https://github.com/cybertheopal/VulnerabilityManagement)<b>
-- <b>[Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)<b>
+- <b>[Active Directory Home Lab]()<b>
 
 <h2>📜 Certifications</h2>
 
 - [Comptia Security +](https://imgur.com/prpeD3X)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Tutorial YouTube Videos Used</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Install Nessus for Free and scan for Vulnerabilities (New Way)](https://www.youtube.com/watch?v=Gy-aPBb0djk)
+- [SIEM Tutorial for Beginners | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!](https://www.youtube.com/watch?v=RoZeVbbZ0o0&t=12s)
+- [How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://www.youtube.com/watch?v=MHsI8hJmggI&list=PLqBeiU46hx1H--SNfTrohTOWeqkK-M2Y0)
+- [SOC Analyst Course: Overview (NEW SOC COURSE)](https://www.youtube.com/watch?v=cU-nZ6Ltvog)
+- [you need to learn Python RIGHT NOW!! //](https://www.youtube.com/watch?v=mRMmlo_Uqcs&list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp)
 
 <h2> 🤳 Connect with me:</h2>
 

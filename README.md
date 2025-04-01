@@ -5,6 +5,7 @@
 - <b>[Disk Sanitation Lab](https://github.com/cybertheopal/DiskSanitationLab)
 - <b>Vulnerability Management Assessment
   - [(Nessus)](https://github.com/cybertheopal/VulnerabilityManagement)<b>
+  -[(Nessus)](https://github.com/cybertheopal/VulnerabilityManagementAzure)<b>
 - <b>[Active Directory Home Lab]()<b>
 
 <h2>📜 Certifications</h2>

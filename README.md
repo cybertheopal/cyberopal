@@ -1,4 +1,18 @@
-<h1>Hi, I'm Opal <br/><a href="https://www.linkedin.com/in/opal-ratanayatigune/">Cybersecurity Professional</a>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Welcome!+👋;+I'm+Opal+Ratanayatigune!" />
+</h1>
+
+<h3 align="center">Programmer | Cybersecurity Professional 🔐</h3>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/opal-ratanayatigune/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+</div>
+
+---
+Aspiring cybersecurity student sharing hands-on projects that explores the importance vulnerability assessments, network security, and ethical hacking techniques.
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

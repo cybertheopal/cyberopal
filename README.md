@@ -7,12 +7,7 @@
   - <b>[Tenable Nessus on macOS with VM Kali Linux](https://github.com/cybertheopal/VulnerabilityManagement)</b>
   - <b>[Tenable Nessus on Azure with VM Windows 10](https://github.com/cybertheopal/VulnerabilityManagementAzure)</b>
 - <b>[Active Directory Home Lab Setup]()</b>
-
-
-<h2>📜 Certifications</h2>
-
-- [Comptia Security +](https://imgur.com/prpeD3X)
-
+--- 
 <h2>🧰 Tools:</h2>
 
 ### Network
@@ -59,12 +54,16 @@
 - [SOC Analyst Course: Overview (NEW SOC COURSE)](https://www.youtube.com/watch?v=cU-nZ6Ltvog)
 - [you need to learn Python RIGHT NOW!! //](https://www.youtube.com/watch?v=mRMmlo_Uqcs&list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp)
 
+
+<h2>📜 Certifications</h2>
+
+- [Comptia Security +](https://imgur.com/prpeD3X)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="OpalRatanayatigune | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/opal-ratanayatigune/
-
 <!--
 
 - 🔭 I’m currently working on ...

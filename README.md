@@ -4,8 +4,8 @@
 
 - <b>[Disk Sanitation Lab Project](https://github.com/cybertheopal/DiskSanitationLab)</b>
 - <b>Vulnerability Management Assessment</b>
-  - <b>[Nessus on macOS with VM Kali Linux](https://github.com/cybertheopal/VulnerabilityManagement)</b>
-  - <b>[Nessus on Azure with VM Windows 10](https://github.com/cybertheopal/VulnerabilityManagementAzure)</b>
+  - <b>[Tenable Nessus on macOS with VM Kali Linux](https://github.com/cybertheopal/VulnerabilityManagement)</b>
+  - <b>[Tenable Nessus on Azure with VM Windows 10](https://github.com/cybertheopal/VulnerabilityManagementAzure)</b>
 - <b>[Active Directory Home Lab]()</b>
 
 

@@ -6,7 +6,7 @@
 - <b>Vulnerability Management Assessment</b>
   - <b>[Tenable Nessus on macOS with VM Kali Linux](https://github.com/cybertheopal/VulnerabilityManagement)</b>
   - <b>[Tenable Nessus on Azure with VM Windows 10](https://github.com/cybertheopal/VulnerabilityManagementAzure)</b>
-- <b>[Active Directory Home Lab]()</b>
+- <b>[Active Directory Home Lab Setup]()</b>
 
 
 <h2>📜 Certifications</h2>

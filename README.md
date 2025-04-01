@@ -2,11 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Disk Sanitation Lab](https://github.com/cybertheopal/DiskSanitationLab)
-- <b>Vulnerability Management Assessment
-  - [(Nessus)](https://github.com/cybertheopal/VulnerabilityManagement)<b>
-  -[(Nessus)](https://github.com/cybertheopal/VulnerabilityManagementAzure)<b>
-- <b>[Active Directory Home Lab]()<b>
+- <b>[Disk Sanitation Lab](https://github.com/cybertheopal/DiskSanitationLab)</b>
+- <b>Vulnerability Management Assessment</b>
+  - <b>[Nessus on OSX with VM Kali Linux](https://github.com/cybertheopal/VulnerabilityManagement)</b>
+  - <b>[Nessus on Azure with VM Windows 10](https://github.com/cybertheopal/VulnerabilityManagementAzure)</b>
+- <b>[Active Directory Home Lab]()</b>
+
 
 <h2>📜 Certifications</h2>
 

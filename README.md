@@ -21,6 +21,7 @@ Aspiring cybersecurity student sharing hands-on projects that explores the impor
 - <b>Vulnerability Management Assessment</b>
   - <b>[Tenable Nessus on macOS with VM Kali Linux](https://github.com/cybertheopal/VulnerabilityManagement)</b>
   - <b>[Tenable Nessus on Azure with VM Windows 10](https://github.com/cybertheopal/VulnerabilityManagementAzure)</b>
+- <b>[Packet Analysis Project](https://github.com/cybertheopal/PCAP-Geolocation/blob/main/README.md)
 - <b>[Active Directory Home Lab Setup]()</b>
 
 ---

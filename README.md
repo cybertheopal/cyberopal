@@ -17,13 +17,17 @@ Aspiring cybersecurity student sharing hands-on projects that explores the impor
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Disk Sanitation Lab Project](https://github.com/cybertheopal/DiskSanitationLab)</b>
-- <b>Vulnerability Management Assessment</b>
-  - <b>[Tenable Nessus on macOS with VM Kali Linux](https://github.com/cybertheopal/VulnerabilityManagement)</b>
-  - <b>[Tenable Nessus on Azure with VM Windows 10](https://github.com/cybertheopal/VulnerabilityManagementAzure)</b>
-- <b>[Sentinel KQL Queries Security Analyst](https://github.com/cybertheopal/Sentinel_KQL_Queries_Security_Analyst/blob/main/Sentinel_KQL_Queries.md)
-- <b>[Wireshark Packet Analysis Lab](https://github.com/cybertheopal/PCAP-Geolocation/blob/main/README.md)
-- <b>[Active Directory Home Lab Setup]()</b>
+| Skills | Associated Project |
+|-------------|----------|
+| **Disk Sanitation Lab Project** | [DiskSanitationLab](https://github.com/cybertheopal/DiskSanitationLab) |
+| **Vulnerability Management Assessment** | — |
+| &emsp;• Tenable Nessus on macOS with VM Kali Linux | [VulnerabilityManagementLinux](https://github.com/cybertheopal/VulnerabilityManagement) |
+| &emsp;• Tenable Nessus on Azure with VM Windows 10 | [VulnerabilityManagementAzure](https://github.com/cybertheopal/VulnerabilityManagementAzure) |
+| **Sentinel KQL Queries Security Analyst** | [Sentinel_KQL_Queries](https://github.com/cybertheopal/Sentinel_KQL_Queries_Security_Analyst/blob/main/Sentinel_KQL_Queries.md) |
+| **Wireshark Packet Analysis Lab** | [PCAP-Geolocation](https://github.com/cybertheopal/PCAP-Geolocation/blob/main/README.md) |
+| **Active Directory Home Lab Setup** | *No link provided* |
+
+
 
 ---
 <h2>📺 Tutorial YouTube Videos Used</h2>

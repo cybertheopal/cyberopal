@@ -27,6 +27,7 @@ Aspiring cybersecurity student sharing hands-on projects that explores the impor
 | **Wireshark Packet Analysis Lab** | [PCAP-Geolocation](https://github.com/cybertheopal/PCAP-Geolocation/blob/main/README.md) |
 | **Active Directory Home Lab Setup** | *No link provided* |
 | **Building a SOC + Honeynet in Azure (Live Traffic)** |[Azure-SOC](https://github.com/cybertheopal/Azure-SOC/blob/main/README.md)
+| Web Application Firewall Home Lab | [WAF SafeLine](https://github.com/cybertheopal/Web-Application-Firewall-Home-Lab-using-SafeLine-WAF/blob/main/README.md)
 
 
 ---

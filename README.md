@@ -28,6 +28,7 @@ Aspiring cybersecurity student sharing hands-on projects that explores the impor
 | **Active Directory Home Lab Setup** | *No link provided* |
 | **Building a SOC + Honeynet in Azure (Live Traffic)** |[Azure-SOC](https://github.com/cybertheopal/Azure-SOC/blob/main/README.md)
 | Web Application Firewall Home Lab | [SafeLine WAF](https://github.com/cybertheopal/Web-Application-Firewall-Home-Lab-using-SafeLine-WAF/blob/main/README.md)
+| Performing the Threat Hunt | [threat-hunting-scenario-tor](https://github.com/cybertheopal/threat-hunting-scenario-tor/tree/main) 
 
 
 ---

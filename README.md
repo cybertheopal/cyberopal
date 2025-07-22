@@ -23,7 +23,7 @@ Aspiring cybersecurity student sharing hands-on projects that explores the impor
 | **Vulnerability Management Assessment** | — |
 | &emsp;• Tenable Nessus on macOS with VM Kali Linux | [VulnerabilityManagementLinux](https://github.com/cybertheopal/VulnerabilityManagement) |
 | &emsp;• Tenable Nessus on Azure with VM Windows 10 | [VulnerabilityManagementAzure](https://github.com/cybertheopal/VulnerabilityManagementAzure) |
-| **Sentinel KQL Queries Security Analyst** | [Sentinel KQL Queries(https://github.com/cybertheopal/Sentinel_KQL_Queries_Security_Analyst/blob/main/Sentinel_KQL_Queries.md)](https://github.com/cybertheopal/Sentinel_KQL_Queries_Security_Analyst/blob/main/Sentinel_KQL_Queries.md) |
+| **Sentinel KQL Queries Security Analyst** | [Sentinel KQL Queries](https://github.com/cybertheopal/Sentinel_KQL_Queries_Security_Analyst/blob/main/Sentinel_KQL_Queries.md) |
 | **Wireshark Packet Analysis Lab** | [PCAP-Geolocation](https://github.com/cybertheopal/PCAP-Geolocation/blob/main/README.md) |
 | **Active Directory Home Lab Setup** | *No link provided* |
 | **Building a SOC + Honeynet in Azure (Live Traffic)** |[Azure-SOC](https://github.com/cybertheopal/Azure-SOC/blob/main/README.md)

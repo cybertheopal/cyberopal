@@ -17,7 +17,7 @@ Aspiring cybersecurity student sharing hands-on projects that explores the impor
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-| Skills | Associated Project |
+| Associated Project | Links |
 |-------------|----------|
 | **Disk Sanitation Lab Project** | [DiskSanitationLab](https://github.com/cybertheopal/DiskSanitationLab) |
 | **Vulnerability Management Assessment** | — |

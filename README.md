@@ -25,7 +25,7 @@ Aspiring cybersecurity student sharing hands-on projects that explores the impor
 | &emsp;• Tenable Nessus on Azure with VM Windows 10 | [VulnerabilityManagementAzure](https://github.com/cybertheopal/VulnerabilityManagementAzure) |
 | **Sentinel KQL Queries Security Analyst** | [Sentinel KQL Queries](https://github.com/cybertheopal/Sentinel_KQL_Queries_Security_Analyst/blob/main/README.md) |
 | **Wireshark Packet Analysis Lab** | [PCAP-Geolocation](https://github.com/cybertheopal/PCAP-Geolocation/blob/main/README.md) |
-| **Active Directory Home Lab Setup** | *No link provided* |
+| **Active Directory** | [Active Directory Home Lab Setup](https://github.com/cybertheopal/Active-Directory-Lab) |
 | **Building a SOC + Honeynet in Azure (Live Traffic)** |[Azure-SOC](https://github.com/cybertheopal/Azure-SOC/blob/main/README.md)
 | Web Application Firewall Home Lab | [SafeLine WAF](https://github.com/cybertheopal/Web-Application-Firewall-Home-Lab-using-SafeLine-WAF/blob/main/README.md)
 | Performing the Threat Hunt | [threat-hunting-scenario-tor](https://github.com/cybertheopal/threat-hunting-scenario-tor/tree/main) 

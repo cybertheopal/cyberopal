@@ -30,6 +30,7 @@ Aspiring cybersecurity student sharing hands-on projects that explores the impor
 | Web Application Firewall Home Lab | [SafeLine WAF](https://github.com/cybertheopal/Web-Application-Firewall-Home-Lab-using-SafeLine-WAF/blob/main/README.md)
 | Performing the Threat Hunt | [threat-hunting-scenario-tor](https://github.com/cybertheopal/threat-hunting-scenario-tor/tree/main)
 | STIG Implementations | [STIG Account Authentication Hardening](https://github.com/cybertheopal/STIG-Account-Authentication-Hardening/blob/main/README.md)
+| Command and Scripting Interpreter: PowerShell | [Threat-Hunting-T1059](https://github.com/cybertheopal/Threat-Hunting-T1059/blob/main/README.md)
 
 
 ---

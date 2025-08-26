@@ -55,6 +55,9 @@ Aspiring cybersecurity student sharing hands-on projects that explores the impor
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C89?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-000000?&style=for-the-badge&logo=matrix&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-FF4500?&style=for-the-badge&logo=virustotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KQL-000000?&style=for-the-badge&logo=codeforces&logoColor=white" />
 </div>
 
 ### SIEM

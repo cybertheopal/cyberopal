@@ -31,6 +31,8 @@ Aspiring cybersecurity student sharing hands-on projects that explores the impor
 | Performing the Threat Hunt | [threat-hunting-scenario-tor](https://github.com/cybertheopal/threat-hunting-scenario-tor/tree/main)
 | STIG Implementations | [STIG Account Authentication Hardening](https://github.com/cybertheopal/STIG-Account-Authentication-Hardening/blob/main/README.md)
 | Command and Scripting Interpreter: PowerShell | [Threat-Hunting-T1059](https://github.com/cybertheopal/Threat-Hunting-T1059/blob/main/README.md)
+| Escalation of Privilege | [Linux Exfiltration Escalation of Privilege Lab](https://github.com/cybertheopal/linux-exfiltration-escalation-of-privilege-lab/blob/main/README.md)
+
 
 
 ---

@@ -36,7 +36,7 @@ Aspiring cybersecurity student sharing hands-on projects that explores the impor
 
 
 ---
-<h2>📺 Tutorial YouTube Videos Used</h2>
+<h2>📺 Additional Helpful Tutorials </h2>
 
 - [Install Nessus for Free and scan for Vulnerabilities (New Way)](https://www.youtube.com/watch?v=Gy-aPBb0djk)
 - [SIEM Tutorial for Beginners | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!](https://www.youtube.com/watch?v=RoZeVbbZ0o0&t=12s)

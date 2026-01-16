@@ -23,7 +23,7 @@ I am passionate about cybersecurity and love tackling complex challenges through
 | **Vulnerability Management Assessment** | — |
 | • Tenable Nessus on macOS with Kali Linux VM | [VulnerabilityManagementLinux](https://github.com/cybertheopal/VulnerabilityManagement) |
 | • Tenable Nessus on Azure with Windows 10 VM | [VulnerabilityManagementAzure](https://github.com/cybertheopal/VulnerabilityManagementAzure) |
-| **Program Implementation** | [Vulnerability-Management-Program-Implementation](https://github.com/cybertheopal/Vulnerability-Management-Program-Implementation/blob/main/README.md) |
+| • Program Implementation | [Vulnerability-Management-Program-Implementation](https://github.com/cybertheopal/Vulnerability-Management-Program-Implementation/blob/main/README.md) |
 | **Sentinel KQL Queries Security Analyst** | [Sentinel KQL Queries](https://github.com/cybertheopal/Sentinel_KQL_Queries_Security_Analyst/blob/main/README.md) |
 | **Wireshark Packet Analysis Lab** | [PCAP-Geolocation](https://github.com/cybertheopal/PCAP-Geolocation/blob/main/README.md) |
 | **Active Directory** | [Active Directory Home Lab Setup](https://github.com/cybertheopal/Active-Directory-Lab) |

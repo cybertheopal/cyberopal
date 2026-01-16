@@ -12,7 +12,7 @@
 </div>
 
 ---
-Aspiring cybersecurity student sharing hands-on projects that explores the importance vulnerability assessments, network security, and ethical hacking techniques.
+Aspiring cybersecurity student sharing hands-on projects and demonstrations that explores the importance vulnerability assessments, network security, and ethical hacking techniques.
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -21,8 +21,9 @@ Aspiring cybersecurity student sharing hands-on projects that explores the impor
 |-------------|----------|
 | **Disk Sanitation Lab Project** | [DiskSanitationLab](https://github.com/cybertheopal/DiskSanitationLab) |
 | **Vulnerability Management Assessment** | — |
-| &emsp;• Tenable Nessus on macOS with VM Kali Linux | [VulnerabilityManagementLinux](https://github.com/cybertheopal/VulnerabilityManagement) |
-| &emsp;• Tenable Nessus on Azure with VM Windows 10 | [VulnerabilityManagementAzure](https://github.com/cybertheopal/VulnerabilityManagementAzure) |
+| • Tenable Nessus on macOS with Kali Linux VM | [VulnerabilityManagementLinux](https://github.com/cybertheopal/VulnerabilityManagement) |
+| • Tenable Nessus on Azure with Windows 10 VM | [VulnerabilityManagementAzure](https://github.com/cybertheopal/VulnerabilityManagementAzure) |
+| **Program Implementation** | [Vulnerability-Management-Program-Implementation](https://github.com/cybertheopal/Vulnerability-Management-Program-Implementation/blob/main/README.md) |
 | **Sentinel KQL Queries Security Analyst** | [Sentinel KQL Queries](https://github.com/cybertheopal/Sentinel_KQL_Queries_Security_Analyst/blob/main/README.md) |
 | **Wireshark Packet Analysis Lab** | [PCAP-Geolocation](https://github.com/cybertheopal/PCAP-Geolocation/blob/main/README.md) |
 | **Active Directory** | [Active Directory Home Lab Setup](https://github.com/cybertheopal/Active-Directory-Lab) |
